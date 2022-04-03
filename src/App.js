@@ -77,7 +77,7 @@ const App = () => {
         <header>
           <h1>TODO</h1>
           <button className="theme-btn" onClick={changeDarkMode}>
-            <img src={ darkMode ? sunIcon : moonIcon } alt='switch to dark mode'></img>
+            <img src={ darkMode ? sunIcon : moonIcon } alt='switch theme'></img>
           </button>
         </header>
         <Form inputText={inputText} setInputText={setInputText} todos={todos} setTodos={setTodos} />

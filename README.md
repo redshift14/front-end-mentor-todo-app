@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [Front End Mentor]()
+- Live Site URL: [Netlify](https://vocal-zabaione-da06cd.netlify.app/)
 
 ## My process
 

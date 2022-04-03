@@ -13,7 +13,6 @@ const Todos = ({todos, setTodos, setTodoStatus, filteredTodos, selectedBtn, setF
       if (window.innerWidth < 500) {
         setSmallWindow(true)
       }
-      console.log(smallWindow)
     }
     window.addEventListener('resize', resizeHandler)
     return _ => {
